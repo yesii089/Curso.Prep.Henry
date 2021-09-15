@@ -1,0 +1,23 @@
+
+             h1{
+                 color: deeppink;
+
+             }
+             img{
+                 width: 300px;
+             }
+             #thirdDiv{
+                 height: 500px;
+                 width: 400px;
+                 background-color: lightsalmon;
+                 padding: 50px;
+                 border: 8px orangered solid;
+             }   
+             #spanId{
+                 font-size: 18px;
+                 margin: 60px;
+             }
+             .divClass{
+                 color: darkmagenta;
+             }
+         
